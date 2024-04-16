@@ -1,5 +1,5 @@
 {
-    "name": "JATE-server",
+    "name": "jate-server",
     "version": "1.0.0",
     "description": "Server for Just Another Text Editor",
     "main": "server.js",
