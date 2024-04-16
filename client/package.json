@@ -1,11 +1,11 @@
 {
-  "name": "JATE",
+  "name": "JATE-client",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watch"
   },
-  "author": "2U",
+  "author": "Robert",
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.15.0",
