@@ -8,10 +8,18 @@ Just Another Text Editor (JATE) is a web-based text editor application that allo
 
 ## Table of Contents
 
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Features
+
+- Offline Functionality: Create notes or code snippets without an internet connection
+- Progressive Web App (PWA): Install JATE on your device for a native app-like experience
+- Persistent Storage: Automatically save and persist your content using IndexedDB
+- Syntax Highlighting: Enjoy syntax highlighting for javascript
 
 ## Installation
 
@@ -23,7 +31,7 @@ Just Another Text Editor (JATE) is a web-based text editor application that allo
 
 ## Usage
 
-Once the application is running, you can access it by opening a web browser and navigating to http://localhost:3000 or visit the deployed site [here](https://jate-esjz.onrender.com/)
+Visit the deployed site on render [here](https://jate-esjz.onrender.com/)
 
 ## Contributing
 
